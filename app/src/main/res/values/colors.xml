@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="custom_dialog_background">#DFD7D7</color>
+    <color name="colorPrimary">#21F3E1</color>
+    <color name="colorPrimary2">#2DCAB9</color>
+    <color name="colorPrimaryDark">#3F66B5</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="cursorAccent">#FF5722</color>
+    <color name="controlNormal">#FF5722</color>
+    <color name="controlActivated">#FF5722</color>
+    <color name="colorTransparentWhite">#52FFFFFF</color>
+</resources>

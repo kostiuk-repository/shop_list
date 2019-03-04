@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shop List</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="new_product">Dodacz towar</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_home">Sklepy</string>
+    <string name="title_dashboard">Archiwum</string>
+    <string name="title_notifications">Informacje</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Aplikacja wykonana i przetworzona przez Olha Vyzhevska </string>
+    <string name="title_activity_shop_cart_list">ShopCartListActivity</string>
+</resources>
