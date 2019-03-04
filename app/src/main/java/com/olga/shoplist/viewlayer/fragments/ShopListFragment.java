@@ -130,13 +130,13 @@ public class ShopListFragment extends Fragment {
                     break;
                 case ShopNames.CARREOUR:
                     holder.imageView.setImageDrawable(
-                            getResources().getDrawable(R.drawable.caref)
+                            getResources().getDrawable(R.drawable.download)
                     );
                     holder.textView.setText(currentItem.getShopName());
                     break;
                 case ShopNames.KAUFLAND:
                     holder.imageView.setImageDrawable(
-                            getResources().getDrawable(R.drawable.kaufl)
+                            getResources().getDrawable(R.drawable.kaufland_supermarket2)
                     );
                     holder.textView.setText(currentItem.getShopName());
                     break;
